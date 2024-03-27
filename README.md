@@ -1,2 +1,4 @@
-# self-development
-Demo area for my own ML training. 
+# Self development
+## Contents
+
+1. 
