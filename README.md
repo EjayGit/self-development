@@ -13,3 +13,5 @@ The term 'quantum' means the very small. Sub-atomic. The significance of this is
 
 #### Representation
 So how to we represent quantum interactions? By chance. That is the answer. Because the energy exists as a waveform, and we can often know exacly what the waveform is from measurements from the source of energy, or by configuring the source to produce a specific waveform. So we know what the waveform is; we know how much energy is contained (amplitude) and how it operates (frequency).
+
+Random thought: if spin of a particle is actually real, and where the spin represents the frequency. Unlikly but possible perhaps?
