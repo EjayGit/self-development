@@ -2,10 +2,15 @@
 ## Contents
 
 ### 1. Machine Learning
-
+#### What is machine learning?
+ML is where small packets of memory that contribute to the output of any given input (a hyperparameter), are changed that enable the program to better predict given previous learning (training) examples. A very basic ML example is linear regression where a group of data points are separated by a line of best fit, enabling a program to predict what the next set of data points mean to the program. If that line is curvy, or 3-dimensional, then more advanced data can be analysed, and to a higher accuracy.
 
 ### 2. AGI
+#### What is AGI?
+AGI stands for Artificial General Intelligence, and is of the thought that humans are a biological AGI, so would be of human comparison when it comes to intelligence. The general part means that is is not of a narrow band of intelligence, so is able to learn from different types of sensors and combine the learning, much like the human brain.
 
+#### How do we build it?
+This is a bit of a question and stating this gives away a lot of intelectual property, however, think of it like this... lots of different types of learning, in one place. Each person doing this will have their own idea on how to design and build it.
 
 ### 3. Quantum Mechanics
 #### What is 'quantum'?
